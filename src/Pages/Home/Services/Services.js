@@ -6,22 +6,22 @@ import Service from './Service';
 const Services = () => {
     const servicesData = [
         {
-            id: 1,
-            name: 'Bed room furniture',
-            description: 'Khat with related necessaries',
-            img: bedroom
+
+            "name": "Bed room furniture",
+            "description": "Khat with related necessaries",
+            "img": "bedroom"
         },
         {
-            id: 2,
-            name: 'Kitchen room furniture',
-            description: 'Kitchen cavinet with related necessaries',
-            img: kitchenroom
+
+            "name": "Kitchen room furniture",
+            "description": "Kitchen cavinet with related necessaries",
+            "img": "kitchenroom"
         },
         {
-            id: 3,
-            name: 'Dinning room furniture',
-            description: 'Dinning table with related necessaries',
-            img: dinningroom
+
+            "name": "Dinning room furniture",
+            "description": "Dinning table with related necessaries",
+            "img": "dinningroom"
         },
 
     ]
